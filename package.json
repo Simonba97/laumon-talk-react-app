@@ -1,7 +1,7 @@
 {
   "homepage": "https://simonba97.github.io/laumon-talk-react-app",
   "name": "laumon-talk-react-app",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -14,7 +14,8 @@
   },
   "dependencies": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.14.2"
   },
   "devDependencies": {
     "@types/react": "^18.2.15",
